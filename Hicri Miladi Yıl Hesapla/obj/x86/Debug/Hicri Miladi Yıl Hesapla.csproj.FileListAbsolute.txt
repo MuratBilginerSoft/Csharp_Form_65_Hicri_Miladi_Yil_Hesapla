@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\ \C#\Hicri Miladi Yıl Hesapla\Hicri Miladi Yıl Hesapla\bin\Debug\Hicri Miladi Yıl Hesapla.exe
+C:\Users\murat\Desktop\ \C#\Hicri Miladi Yıl Hesapla\Hicri Miladi Yıl Hesapla\bin\Debug\Hicri Miladi Yıl Hesapla.pdb
+C:\Users\murat\Desktop\ \C#\Hicri Miladi Yıl Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri_Miladi_Yıl_Hesapla.Form1.resources
+C:\Users\murat\Desktop\ \C#\Hicri Miladi Yıl Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri_Miladi_Yıl_Hesapla.Properties.Resources.resources
+C:\Users\murat\Desktop\ \C#\Hicri Miladi Yıl Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri Miladi Yıl Hesapla.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \C#\Hicri Miladi Yıl Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri Miladi Yıl Hesapla.exe
+C:\Users\murat\Desktop\ \C#\Hicri Miladi Yıl Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri Miladi Yıl Hesapla.pdb
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri Miladi Yıl Hesapla.exe
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri Miladi Yıl Hesapla.pdb
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\bin\Debug\Hicri Miladi Yıl Hesapla.exe
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\bin\Debug\Hicri Miladi Yıl Hesapla.pdb
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri Miladi Yıl Hesapla.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri_Miladi_Yıl_Hesapla.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri_Miladi_Yıl_Hesapla.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\32 Hicri Miladi Yil Hesapla\Hicri Miladi Yıl Hesapla\obj\x86\Debug\Hicri Miladi Yıl Hesapla.csproj.GenerateResource.Cache
